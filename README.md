@@ -26,4 +26,8 @@ file1_name.my_function()
 My_name
 
 ## License
+<<<<<<< HEAD
 [MIT](https://choosealicense.com/licenses/mit/)
+=======
+[MIT](https://choosealicense.com/licenses/mit/)
+>>>>>>> master
