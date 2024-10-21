@@ -3,9 +3,7 @@ Desafio do Bootcamp da NTT DATA com a DIO - Criando um Pacote de Processamento d
 # package_name
 
 Description. 
-The package package_name is used to:
-	- 
-	-
+The package package_name is used to process images
 
 ## Installation
 
@@ -23,11 +21,8 @@ file1_name.my_function()
 ```
 
 ## Author
-My_name
+anaclararaspadari
 
 ## License
-<<<<<<< HEAD
 [MIT](https://choosealicense.com/licenses/mit/)
-=======
 [MIT](https://choosealicense.com/licenses/mit/)
->>>>>>> master
